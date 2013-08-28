@@ -1,2 +1,4 @@
-name:TKlog
+name: TKlog
+safe: true
+lsi: false
 pygments: true
